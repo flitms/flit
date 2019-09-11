@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flit/static/css/main.2c785df7.chunk.css",
+    "main.js": "/flit/static/js/main.b1873d2d.chunk.js",
+    "main.js.map": "/flit/static/js/main.b1873d2d.chunk.js.map",
+    "runtime~main.js": "/flit/static/js/runtime~main.a1e79ede.js",
+    "runtime~main.js.map": "/flit/static/js/runtime~main.a1e79ede.js.map",
+    "static/css/2.16c182ab.chunk.css": "/flit/static/css/2.16c182ab.chunk.css",
+    "static/js/2.cf8e3df2.chunk.js": "/flit/static/js/2.cf8e3df2.chunk.js",
+    "static/js/2.cf8e3df2.chunk.js.map": "/flit/static/js/2.cf8e3df2.chunk.js.map",
+    "index.html": "/flit/index.html",
+    "precache-manifest.29c25c9ae0a33a14e1ec10fc22caffc1.js": "/flit/precache-manifest.29c25c9ae0a33a14e1ec10fc22caffc1.js",
+    "service-worker.js": "/flit/service-worker.js",
+    "static/css/2.16c182ab.chunk.css.map": "/flit/static/css/2.16c182ab.chunk.css.map",
+    "static/css/main.2c785df7.chunk.css.map": "/flit/static/css/main.2c785df7.chunk.css.map"
+  }
+}
